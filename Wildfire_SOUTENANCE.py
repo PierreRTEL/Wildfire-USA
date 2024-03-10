@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
+# Un essai de modification
+
 #Notebook converti en script pour importer nos visualisation
 
 # <span style="color:#B22222;font-size:3em">Wildfires in USA</span>
